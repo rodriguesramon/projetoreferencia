@@ -1,0 +1,11 @@
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\bin\Debug\netcoreapp2.1\projetoreferencia.deps.json
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\bin\Debug\netcoreapp2.1\projetoreferencia.runtimeconfig.json
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\bin\Debug\netcoreapp2.1\projetoreferencia.runtimeconfig.dev.json
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\bin\Debug\netcoreapp2.1\projetoreferencia.dll
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\bin\Debug\netcoreapp2.1\projetoreferencia.pdb
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.csprojAssemblyReference.cache
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.csproj.CoreCompileInputs.cache
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.AssemblyInfoInputs.cache
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.AssemblyInfo.cs
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.dll
+c:\users\ramon costa\source\repos\projetoreferencia\projetoreferencia\obj\Debug\netcoreapp2.1\projetoreferencia.pdb
